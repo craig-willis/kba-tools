@@ -99,6 +99,11 @@
 	  <artifactId>joda-time</artifactId>
 	  <version>2.2</version>
 	</dependency>
+	       <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.2.1</version>
+        </dependency>
         <dependency>
             <groupId>indri</groupId>
             <artifactId>indri</artifactId>
@@ -109,5 +114,10 @@
             <artifactId>ir-utils</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>	
+                <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>1.6</version>
+        </dependency>
   </dependencies>
 </project>
