@@ -91,14 +91,20 @@ public class StreamCorpusScorer
             CommandLineParser parser = new GnuParser();
             CommandLine cmd = parser.parse( options, args);
             
+            // Specified if input is a single file
             String infile = cmd.getOptionValue("infile");
+            // Specified if input is a directory of thrift files
             String indir = cmd.getOptionValue("indir");
+            // Path to the topics/gqueries file
             String topicsFile = cmd.getOptionValue("topics");
+            // Where to write the scores
             String logFile = cmd.getOptionValue("log");
+            // Path to stoplist
             String stopFile = cmd.getOptionValue("stopper");
+            // Path to file of collection probabilities
             String collectionProbsFile = cmd.getOptionValue("collprobs");
             
-            // Setup the filter
+            // Setup the scorer
             StreamCorpusScorer f = new StreamCorpusScorer();
             f.setLog(logFile);
             f.setStopper(new Stopper(stopFile));
@@ -109,19 +115,19 @@ public class StreamCorpusScorer
             int documents = 0;
             long start = System.currentTimeMillis();
             if (infile != null) {
-                // Process a single file
+                // Process a single thrift file
                 File inFile = new File(infile);
                 documents += f.score(inFile);
                 files++;
             }
             else if (indir != null) {
-                // Process a directory of files
+                // Process a directory of thrift files
                 for (File file: new File(indir).listFiles()) {
                     documents += f.score(file);
                     files++;
                 }
             } else {
-                // Read from stdin
+                // Read thrift file piped from stdin
                 documents += f.score(System.in);
                 files++;
             }
@@ -156,6 +162,15 @@ public class StreamCorpusScorer
         this.stopper = stopper;
     }
     
+    /**
+     * Reads the topics/gqueries file into four different maps:
+     *  Map entity ID (int) to name (string)
+     *  Map entity ID (int) to URL (string)
+     *  Map term (String) to entity IDs (int set)
+     *  Map entity ID (int) to terms (String set)
+     * @param topicsFile
+     * @throws IOException
+     */
     public void readEntities(String topicsFile) 
             throws IOException
     {
@@ -251,13 +266,16 @@ public class StreamCorpusScorer
                     TokenStream stream = analyzer.tokenStream(null, 
                             new StringReader(item.body.clean_visible));
                     stream.reset();
-                    
+                 
+                    // Removes trailing possessives 's from words
                     stream = new EnglishPossessiveFilter(Version.LUCENE_43, stream);
                     CharTermAttribute cattr = stream.addAttribute(CharTermAttribute.class);
                     
-                    // Term frequencies for all terms in surface form
+                    // For each word in the document, count frequencies using a Bag.
+                    // Only count words that occur in an entity surface form.
+                    // Keep track of the unique set of entities matched.
                     Set<Integer> matches = new HashSet<Integer>();
-                    Bag<String> doc = new HashBag<String>();
+                    Bag<String> doc = new HashBag<String>();                    
                     while(stream.incrementToken()) {
                         String term = cattr.toString();
                         Set<Integer> entityIds = termToEntityIdMap.get(term);
@@ -267,7 +285,8 @@ public class StreamCorpusScorer
                         }
                     }
                     
-                    // Score each matched entity
+                    // For each matched entity, score the complete
+                    // entity surface form against the document.
                     for (int entityId: matches) {
                         Set<String> qterms = entityIdToTermMap.get(entityId);
                         String url = entityIdToUrl.get(entityId);
