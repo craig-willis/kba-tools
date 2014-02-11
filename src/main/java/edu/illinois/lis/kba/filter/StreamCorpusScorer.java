@@ -77,7 +77,7 @@ public class StreamCorpusScorer
     Map<String, Set<Integer>> termToEntityIdMap = new TreeMap<String, Set<Integer>>();
     
     /* Map an entity id to all terms it contains (after tokenization) */
-    Map<Integer, Set<String>> entityIdToTermMap = new TreeMap<Integer, Set<String>>();
+    Map<Integer, Bag<String>> entityIdToTermMap = new TreeMap<Integer, Bag<String>>();
 
     /* Map seen terms to candidate entities for the current document*/
     Map<String, Set<Integer>> candidates = new TreeMap<String, Set<Integer>>();
@@ -202,9 +202,9 @@ public class StreamCorpusScorer
                 entityIds.add(entityId);
                 
                 // Map of entity ID to set of terms
-                Set<String> termMap = entityIdToTermMap.get(entityId);
+                Bag<String> termMap = entityIdToTermMap.get(entityId);
                 if (termMap == null)
-                    termMap = new TreeSet<String>();                  
+                    termMap = new HashBag<String>();                  
                 termMap.add(term);
                 
                 // Store the entity ids that contain each term
@@ -288,7 +288,7 @@ public class StreamCorpusScorer
                     // For each matched entity, score the complete
                     // entity surface form against the document.
                     for (int entityId: matches) {
-                        Set<String> qterms = entityIdToTermMap.get(entityId);
+                        Bag<String> qterms = entityIdToTermMap.get(entityId);
                         String url = entityIdToUrl.get(entityId);
                         double score = scoreDirichlet(qterms, doc);
                         log.write(item.stream_id + "\t" + url + "\t" + score  + "\n");
@@ -336,15 +336,15 @@ public class StreamCorpusScorer
     /**
      * Score the document with respect to the query using Dirichlet
      */
-    public double scoreDirichlet(Set<String> query, Bag<String> doc) 
+    public double scoreDirichlet(Bag<String> query, Bag<String> doc) 
     {
         double logLikelihood = 0.0;
-        for (String qterm: query) {
+        for (String qterm: query.uniqueSet()) {
             double docFreq = (double)doc.getCount(qterm);
             double docLength = (double)doc.size();
             double collectionProb = collectionProbs.get(qterm);
             double pr = (docFreq + MU*collectionProb) / (docLength + MU);
-            logLikelihood += Math.log(pr);
+            logLikelihood += query.getCount(qterm) * Math.log(pr);
         }
         return logLikelihood;
     }
