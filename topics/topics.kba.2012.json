@@ -1,0 +1,445 @@
+{
+  "queries": [
+    {
+      "title": "Aharon_Barak",
+      "text": "Aharon Barak",
+      "constraint": "#1(Aharon Barak)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "barak"
+        },
+        {
+          "weight": "1",
+          "feature": "aharon"
+        }
+      ]
+    },
+    {
+      "title": "Alex_Kapranos",
+      "text": "Alex Kapranos",
+      "constraint": "#1(Alex Kapranos)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "alex"
+        },
+        {
+          "weight": "1",
+          "feature": "kapranos"
+        }
+      ]
+    },
+    {
+      "title": "Alexander_McCall_Smith",
+      "text": "Alexander McCall Smith",
+      "constraint": "#1(Alexander McCall Smith)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "smith"
+        },
+        {
+          "weight": "1",
+          "feature": "mccall"
+        },
+        {
+          "weight": "1",
+          "feature": "alexander"
+        }
+      ]
+    },
+    {
+      "title": "Annie_Laurie_Gaylor",
+      "text": "Annie Laurie Gaylor",
+      "constraint": "#1(Annie Laurie Gaylor)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "laurie"
+        },
+        {
+          "weight": "1",
+          "feature": "gaylor"
+        },
+        {
+          "weight": "1",
+          "feature": "annie"
+        }
+      ]
+    },
+    {
+      "title": "Basic_Element_(company)",
+      "text": "Basic Element",
+      "constraint": "#1(Basic Element)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "element"
+        },
+        {
+          "weight": "1",
+          "feature": "basic"
+        }
+      ]
+    },
+    {
+      "title": "Basic_Element_(music_group)",
+      "text": "Basic Element",
+      "constraint": "#1(Basic Element)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "element"
+        },
+        {
+          "weight": "1",
+          "feature": "basic"
+        }
+      ]
+    },
+    {
+      "title": "Bill_Coen",
+      "text": "Bill Coen",
+      "constraint": "#1(Bill Coen)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bill"
+        },
+        {
+          "weight": "1",
+          "feature": "coen"
+        }
+      ]
+    },
+    {
+      "title": "Boris_Berezovsky_(businessman)",
+      "text": "Boris Berezovsky",
+      "constraint": "#1(Boris Berezovsky)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "berezovsky"
+        },
+        {
+          "weight": "1",
+          "feature": "boris"
+        }
+      ]
+    },
+    {
+      "title": "Boris_Berezovsky_(pianist)",
+      "text": "Boris Berezovsky",
+      "constraint": "#1(Boris Berezovsky)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "berezovsky"
+        },
+        {
+          "weight": "1",
+          "feature": "boris"
+        }
+      ]
+    },
+    {
+      "title": "Charlie_Savage",
+      "text": "Charlie Savage",
+      "constraint": "#1(Charlie Savage)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "savage"
+        },
+        {
+          "weight": "1",
+          "feature": "charlie"
+        }
+      ]
+    },
+    {
+      "title": "Darren_Rowse",
+      "text": "Darren Rowse",
+      "constraint": "#1(Darren Rowse)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rowse"
+        },
+        {
+          "weight": "1",
+          "feature": "darren"
+        }
+      ]
+    },
+    {
+      "title": "Douglas_Carswell",
+      "text": "Douglas Carswell",
+      "constraint": "#1(Douglas Carswell)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "douglas"
+        },
+        {
+          "weight": "1",
+          "feature": "carswell"
+        }
+      ]
+    },
+    {
+      "title": "Frederick_M._Lawrence",
+      "text": "Frederick M Lawrence",
+      "constraint": "#1(Frederick M Lawrence)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lawrence"
+        },
+        {
+          "weight": "1",
+          "feature": "frederick"
+        },
+        {
+          "weight": "1",
+          "feature": "m"
+        }
+      ]
+    },
+    {
+      "title": "Ikuhisa_Minowa",
+      "text": "Ikuhisa Minowa",
+      "constraint": "#1(Ikuhisa Minowa)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ikuhisa"
+        },
+        {
+          "weight": "1",
+          "feature": "minowa"
+        }
+      ]
+    },
+    {
+      "title": "James_McCartney",
+      "text": "James McCartney",
+      "constraint": "#1(James McCartney)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "james"
+        },
+        {
+          "weight": "1",
+          "feature": "mccartney"
+        }
+      ]
+    },
+    {
+      "title": "Jim_Steyer",
+      "text": "Jim Steyer",
+      "constraint": "#1(Jim Steyer)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "steyer"
+        },
+        {
+          "weight": "1",
+          "feature": "jim"
+        }
+      ]
+    },
+    {
+      "title": "Lisa_Bloom",
+      "text": "Lisa Bloom",
+      "constraint": "#1(Lisa Bloom)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bloom"
+        },
+        {
+          "weight": "1",
+          "feature": "lisa"
+        }
+      ]
+    },
+    {
+      "title": "Lovebug_Starski",
+      "text": "Lovebug Starski",
+      "constraint": "#1(Lovebug Starski)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lovebug"
+        },
+        {
+          "weight": "1",
+          "feature": "starski"
+        }
+      ]
+    },
+    {
+      "title": "Mario_Garnero",
+      "text": "Mario Garnero",
+      "constraint": "#1(Mario Garnero)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mario"
+        },
+        {
+          "weight": "1",
+          "feature": "garnero"
+        }
+      ]
+    },
+    {
+      "title": "Masaru_Emoto",
+      "text": "Masaru Emoto",
+      "constraint": "#1(Masaru Emoto)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "emoto"
+        },
+        {
+          "weight": "1",
+          "feature": "masaru"
+        }
+      ]
+    },
+    {
+      "title": "Nassim_Nicholas_Taleb",
+      "text": "Nassim Nicholas Taleb",
+      "constraint": "#1(Nassim Nicholas Taleb)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "taleb"
+        },
+        {
+          "weight": "1",
+          "feature": "nicholas"
+        },
+        {
+          "weight": "1",
+          "feature": "nassim"
+        }
+      ]
+    },
+    {
+      "title": "Rodrigo_Pimentel",
+      "text": "Rodrigo Pimentel",
+      "constraint": "#1(Rodrigo Pimentel)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pimentel"
+        },
+        {
+          "weight": "1",
+          "feature": "rodrigo"
+        }
+      ]
+    },
+    {
+      "title": "Roustam_Tariko",
+      "text": "Roustam Tariko",
+      "constraint": "#1(Roustam Tariko)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tariko"
+        },
+        {
+          "weight": "1",
+          "feature": "roustam"
+        }
+      ]
+    },
+    {
+      "title": "Ruth_Rendell",
+      "text": "Ruth Rendell",
+      "constraint": "#1(Ruth Rendell)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "rendell"
+        },
+        {
+          "weight": "1",
+          "feature": "ruth"
+        }
+      ]
+    },
+    {
+      "title": "Satoshi_Ishii",
+      "text": "Satoshi Ishii",
+      "constraint": "#1(Satoshi Ishii)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "satoshi"
+        },
+        {
+          "weight": "1",
+          "feature": "ishii"
+        }
+      ]
+    },
+    {
+      "title": "Vladimir_Potanin",
+      "text": "Vladimir Potanin",
+      "constraint": "#1(Vladimir Potanin)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "potanin"
+        },
+        {
+          "weight": "1",
+          "feature": "vladimir"
+        }
+      ]
+    },
+    {
+      "title": "William_Cohen",
+      "text": "William Cohen",
+      "constraint": "#1(William Cohen)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "william"
+        },
+        {
+          "weight": "1",
+          "feature": "cohen"
+        }
+      ]
+    },
+    {
+      "title": "William_D._Cohan",
+      "text": "William D Cohan",
+      "constraint": "#1(William D Cohan)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "william"
+        },
+        {
+          "weight": "1",
+          "feature": "d"
+        },
+        {
+          "weight": "1",
+          "feature": "cohan"
+        }
+      ]
+    }
+  ]
+}
+

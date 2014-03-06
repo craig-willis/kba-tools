@@ -1,0 +1,2963 @@
+{
+  "queries": [
+    {
+      "title": "http://en.wikipedia.org/wiki/Stuart_Powell_Field",
+      "text": "stuart powell field",
+      "constraint": "#2(stuart powell field)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "field"
+        },
+        {
+          "weight": "1",
+          "feature": "stuart"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(stuart powell field)"
+        },
+        {
+          "weight": "1",
+          "feature": "powell"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/CorbinSpeedway",
+      "text": "corbin speedway",
+      "constraint": "#2(corbin speedway)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "corbinspeedway"
+        },
+        {
+          "weight": "1",
+          "feature": "corbin"
+        },
+        {
+          "weight": "1",
+          "feature": "speedway"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(corbin speedway)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Dalle_Molle_Institute_for_Artificial_Intelligence_Research",
+      "text": "dalle molle institute artificial intelligence research",
+      "constraint": "#2(dalle molle institute artificial intelligence research)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "institute"
+        },
+        {
+          "weight": "1",
+          "feature": "molle"
+        },
+        {
+          "weight": "1",
+          "feature": "dalle"
+        },
+        {
+          "weight": "1",
+          "feature": "artificial"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(dalle molle institute artificial intelligence research)"
+        },
+        {
+          "weight": "1",
+          "feature": "intelligence"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Corn_Belt_Power_Cooperative",
+      "text": "corn belt power cooperative",
+      "constraint": "#2(corn belt power cooperative)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(corn belt power cooperative)"
+        },
+        {
+          "weight": "1",
+          "feature": "cooperative"
+        },
+        {
+          "weight": "1",
+          "feature": "power"
+        },
+        {
+          "weight": "1",
+          "feature": "belt"
+        },
+        {
+          "weight": "1",
+          "feature": "corn"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Fargo-Moorhead_Symphony_Orchestra",
+      "text": "fargo moorhead symphony orchestra",
+      "constraint": "#2(fargo moorhead symphony orchestra)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(fargo moorhead symphony orchestra)"
+        },
+        {
+          "weight": "1",
+          "feature": "fargo"
+        },
+        {
+	  "weight": "1",
+	  "feature": "moorhead"
+        },
+        {
+          "weight": "1",
+          "feature": "orchestra"
+        },
+        {
+          "weight": "1",
+          "feature": "symphony"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Fargo_Air_Museum",
+      "text": "fargo air museum",
+      "constraint": "#2(fargo air museum)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(fargo air museum)"
+        },
+        {
+          "weight": "1",
+          "feature": "fargo"
+        },
+        {
+          "weight": "1",
+          "feature": "air"
+        },
+        {
+          "weight": "1",
+          "feature": "museum"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Hjemkomst_Center",
+      "text": "hjemkomst center",
+      "constraint": "#2(hjemkomst center)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "center"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(hjemkomst center)"
+        },
+        {
+          "weight": "1",
+          "feature": "hjemkomst"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/John_D._Odegard_School_of_Aerospace_Sciences",
+      "text": "john d odegard school aerospace sciences",
+      "constraint": "#2(john d odegard school aerospace sciences)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "aerospace"
+        },
+        {
+          "weight": "1",
+          "feature": "d"
+        },
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "sciences"
+        },
+        {
+          "weight": "1",
+          "feature": "john"
+        },
+        {
+          "weight": "1",
+          "feature": "odegard"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(john d odegard school aerospace sciences)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Red_River_Zoo",
+      "text": "red river zoo",
+      "constraint": "#2(red river zoo)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(red river zoo)"
+        },
+        {
+          "weight": "1",
+          "feature": "red"
+        },
+        {
+          "weight": "1",
+          "feature": "zoo"
+        },
+        {
+          "weight": "1",
+          "feature": "river"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Star_Lite_Motel",
+      "text": "star lite motel",
+      "constraint": "#2(star lite motel)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "motel"
+        },
+        {
+          "weight": "1",
+          "feature": "star"
+        },
+        {
+          "weight": "1",
+          "feature": "lite"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(star lite motel)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Elysian_Charter_School",
+      "text": "elysian charter school",
+      "constraint": "#2(elysian charter school)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "charter"
+        },
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(elysian charter school)"
+        },
+        {
+          "weight": "1",
+          "feature": "elysian"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Stevens_Cooperative_School",
+      "text": "stevens cooperative school",
+      "constraint": "#2(stevens cooperative school)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(stevens cooperative school)"
+        },
+        {
+          "weight": "1",
+          "feature": "cooperative"
+        },
+        {
+          "weight": "1",
+          "feature": "stevens"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Weehawken_Cove",
+      "text": "weehawken cove",
+      "constraint": "#2(weehawken cove)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(weehawken cove)"
+        },
+        {
+          "weight": "1",
+          "feature": "cove"
+        },
+        {
+          "weight": "1",
+          "feature": "weehawken"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Copper_Basin_Railway",
+      "text": "copper basin railway",
+      "constraint": "#2(copper basin railway)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "basin"
+        },
+        {
+          "weight": "1",
+          "feature": "railway"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(copper basin railway)"
+        },
+        {
+          "weight": "1",
+          "feature": "copper"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Hayden_Smelter",
+      "text": "hayden smelter",
+      "constraint": "#2(hayden smelter)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hayden"
+        },
+        {
+          "weight": "1",
+          "feature": "smelter"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(hayden smelter)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Lewis_and_Clark_Landing",
+      "text": "lewis clark landing",
+      "constraint": "#2(lewis clark landing)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "clark"
+        },
+        {
+          "weight": "1",
+          "feature": "lewis"
+        },
+        {
+          "weight": "1",
+          "feature": "landing"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(lewis clark landing)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Toquepala_mine",
+      "text": "toquepala mine",
+      "constraint": "#2(toquepala mine)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(toquepala mine)"
+        },
+        {
+          "weight": "1",
+          "feature": "toquepala"
+        },
+        {
+          "weight": "1",
+          "feature": "mine"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/The_Ritz_Apartment_(Ocala,_Florida)",
+      "text": "ritz apartment ocala florida",
+      "constraint": "#2(ritz apartment ocala florida)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ritz"
+        },
+        {
+          "weight": "1",
+          "feature": "florida"
+        },
+        {
+          "weight": "1",
+          "feature": "apartment"
+        },
+        {
+          "weight": "1",
+          "feature": "ocala"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ritz apartment ocala florida)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Appleton_Museum_of_Art",
+      "text": "appleton museum art",
+      "constraint": "#2(appleton museum art)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(appleton museum art)"
+        },
+        {
+          "weight": "1",
+          "feature": "appleton"
+        },
+        {
+          "weight": "1",
+          "feature": "art"
+        },
+        {
+          "weight": "1",
+          "feature": "museum"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Don_Garlits_Museum_of_Drag_Racing",
+      "text": "don garlits museum drag racing",
+      "constraint": "#2(don garlits museum drag racing)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "don"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(don garlits museum drag racing)"
+        },
+        {
+          "weight": "1",
+          "feature": "racing"
+        },
+        {
+          "weight": "1",
+          "feature": "drag"
+        },
+        {
+          "weight": "1",
+          "feature": "museum"
+        },
+        {
+          "weight": "1",
+          "feature": "garlits"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Eighth_Street_Elementary_School",
+      "text": "eighth street elementary school",
+      "constraint": "#2(eighth street elementary school)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "eighth"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(eighth street elementary school)"
+        },
+        {
+          "weight": "1",
+          "feature": "street"
+        },
+        {
+          "weight": "1",
+          "feature": "elementary"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Lake_Weir_High_School",
+      "text": "lake weir high school",
+      "constraint": "#2(lake weir high school)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "weir"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(lake weir high school)"
+        },
+        {
+          "weight": "1",
+          "feature": "lake"
+        },
+        {
+          "weight": "1",
+          "feature": "high"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Marion_Technical_Institute",
+      "text": "marion technical institute",
+      "constraint": "#2(marion technical institute)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "institute"
+        },
+        {
+          "weight": "1",
+          "feature": "marion"
+        },
+        {
+          "weight": "1",
+          "feature": "technical"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(marion technical institute)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Osceola_Middle_School",
+      "text": "osceola middle school",
+      "constraint": "#2(osceola middle school)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(osceola middle school)"
+        },
+        {
+          "weight": "1",
+          "feature": "osceola"
+        },
+        {
+          "weight": "1",
+          "feature": "middle"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Great_American_Brass_Band_Festival",
+      "text": "great american brass band festival",
+      "constraint": "#2(great american brass band festival)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "band"
+        },
+        {
+          "weight": "1",
+          "feature": "great"
+        },
+        {
+          "weight": "1",
+          "feature": "american"
+        },
+        {
+          "weight": "1",
+          "feature": "festival"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(great american brass band festival)"
+        },
+        {
+          "weight": "1",
+          "feature": "brass"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Innovis_Health",
+      "text": "innovis health",
+      "constraint": "#2(innovis health)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(innovis health)"
+        },
+        {
+          "weight": "1",
+          "feature": "health"
+        },
+        {
+          "weight": "1",
+          "feature": "innovis"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Hoboken_Reporter",
+      "text": "hoboken reporter",
+      "constraint": "#2(hoboken reporter)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reporter"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(hoboken reporter)"
+        },
+        {
+          "weight": "1",
+          "feature": "hoboken"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Hoboken_Volunteer_Ambulance_Corps",
+      "text": "hoboken volunteer ambulance corps",
+      "constraint": "#2(hoboken volunteer ambulance corps)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ambulance"
+        },
+        {
+          "weight": "1",
+          "feature": "volunteer"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(hoboken volunteer ambulance corps)"
+        },
+        {
+          "weight": "1",
+          "feature": "hoboken"
+        },
+        {
+          "weight": "1",
+          "feature": "corps"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Agroindustrial_Pomalca",
+      "text": "agroindustrial pomalca",
+      "constraint": "#2(agroindustrial pomalca)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(agroindustrial pomalca)"
+        },
+        {
+          "weight": "1",
+          "feature": "pomalca"
+        },
+        {
+          "weight": "1",
+          "feature": "agroindustrial"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Atacocha",
+      "text": "atacocha",
+      "constraint": "#2(atacocha)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "atacocha"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(atacocha)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Austral_Group",
+      "text": "austral group",
+      "constraint": "#2(austral group)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "austral"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(austral group)"
+        },
+        {
+          "weight": "1",
+          "feature": "group"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Cementos_Lima",
+      "text": "cementos lima",
+      "constraint": "#2(cementos lima)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(cementos lima)"
+        },
+        {
+          "weight": "1",
+          "feature": "cementos"
+        },
+        {
+          "weight": "1",
+          "feature": "lima"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Dunkelvolk",
+      "text": "dunkelvolk",
+      "constraint": "#2(dunkelvolk)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dunkelvolk"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(dunkelvolk)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Gran%C3%A3_y_Montero",
+      "text": "grana y montero",
+      "constraint": "#2(grana y montero)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "grana"
+        },
+        {
+          "weight": "1",
+          "feature": "montero"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(grana y montero)"
+        },
+        {
+          "weight": "1",
+          "feature": "y"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Intergroup_Financial_Services",
+      "text": "intergroup financial services",
+      "constraint": "#2(intergroup financial services)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "financial"
+        },
+        {
+          "weight": "1",
+          "feature": "services"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(intergroup financial services)"
+        },
+        {
+          "weight": "1",
+          "feature": "intergroup"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Luz_del_Sur",
+      "text": "luz del sur",
+      "constraint": "#2(luz del sur)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sur"
+        },
+        {
+          "weight": "1",
+          "feature": "luz"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(luz del sur)"
+        },
+        {
+          "weight": "1",
+          "feature": "del"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/SIMSA",
+      "text": "simsa",
+      "constraint": "#2(simsa)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(simsa)"
+        },
+        {
+          "weight": "1",
+          "feature": "simsa"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Scotiabank_Per%C3%BA",
+      "text": "scotiabank peru",
+      "constraint": "#2(scotiabank peru)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scotiabank"
+        },
+        {
+          "weight": "1",
+          "feature": "peru"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(scotiabank peru)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/BlossomCoffee",
+      "text": "blossom coffee",
+      "constraint": "#2(blossom coffee)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "blossomcoffee"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(blossom coffee)"
+        },
+        {
+          "weight": "1",
+          "feature": "coffee"
+        },
+        {
+          "weight": "1",
+          "feature": "blossom"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/FrankandOak",
+      "text": "frank and oak",
+      "constraint": "#2(frank and oak)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "frankandoak"
+        },
+        {
+          "weight": "1",
+          "feature": "frank"
+        },
+        {
+          "weight": "1",
+          "feature": "oak"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(frank and oak)"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/GandBcoffee",
+      "text": "g b coffee",
+      "constraint": "#2(g b coffee)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "gandbcoffee"
+        },
+        {
+          "weight": "1",
+          "feature": "g"
+        },
+        {
+          "weight": "1",
+          "feature": "b"
+        },
+        {
+          "weight": "1",
+          "feature": "coffee"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(g b coffee)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/WCoffeeResearch",
+      "text": "wcoffeeresearch",
+      "constraint": "#2(wcoffeeresearch)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wcoffeeresearch"
+        },
+        {
+          "weight": "1",
+          "feature": "coffee"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        },
+      ]
+    },
+    {
+      "title": "https://twitter.com/evvnt",
+      "text": "evvnt",
+      "constraint": "#2(evvnt)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "evvnt"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(evvnt)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Edgar_Bronfman,_Jr.",
+      "text": "edgar bronfman jr",
+      "constraint": "#2(edgar bronfman jr)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "edgar"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(edgar bronfman jr)"
+        },
+        {
+          "weight": "1",
+          "feature": "jr"
+        },
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Edgar_Bronfman,_Sr.",
+      "text": "edgar bronfman sr",
+      "constraint": "#2(edgar bronfman sr)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "edgar"
+        },
+        {
+          "weight": "1",
+          "feature": "sr"
+        },
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(edgar bronfman sr)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Benjamin_Bronfman",
+      "text": "benjamin bronfman",
+      "constraint": "#2(benjamin bronfman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(benjamin bronfman)"
+        },
+        {
+          "weight": "1",
+          "feature": "benjamin"
+        },
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Charles_Bronfman",
+      "text": "charles bronfman",
+      "constraint": "#2(charles bronfman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(charles bronfman)"
+        },
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        },
+        {
+          "weight": "1",
+          "feature": "charles"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Clare_Bronfman",
+      "text": "clare bronfman",
+      "constraint": "#2(clare bronfman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        },
+        {
+          "weight": "1",
+          "feature": "clare"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(clare bronfman)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Phyllis_Lambert",
+      "text": "phyllis lambert",
+      "constraint": "#2(phyllis lambert)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "phyllis"
+        },
+        {
+          "weight": "1",
+          "feature": "lambert"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(phyllis lambert)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Sara_Bronfman",
+      "text": "sara bronfman",
+      "constraint": "#2(sara bronfman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bronfman"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(sara bronfman)"
+        },
+        {
+          "weight": "1",
+          "feature": "sara"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/DeAnne_Smith",
+      "text": "deanne smith",
+      "constraint": "#2(deanne smith)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deanne"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(deanne smith)"
+        },
+        {
+          "weight": "1",
+          "feature": "smith"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/RonFunches",
+      "text": "ron funches",
+      "constraint": "#2(ron funches)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ronfunches"
+        },
+        {
+          "weight": "1",
+          "feature": "funches"
+        },
+        {
+          "weight": "1",
+          "feature": "ron"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ron funches)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/roryscovel",
+      "text": "rory scovel",
+      "constraint": "#2(rory scovel)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "roryscovel"
+        },
+        {
+          "weight": "1",
+          "feature": "scovel"
+        },
+        {
+          "weight": "1",
+          "feature": "rory"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(rory scovel)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/AlexJoHamilton",
+      "text": "alex jo hamilton",
+      "constraint": "#2(alex jo hamilton)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "alexjohamilton"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(alex jo hamilton)"
+        },
+        {
+          "weight": "1",
+          "feature": "hamilton"
+        },
+        {
+          "weight": "1",
+          "feature": "alex"
+        },
+        {
+          "weight": "1",
+          "feature": "jo"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/BobStovall",
+      "text": "bob stovall",
+      "constraint": "#2(bob stovall)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bobstovall"
+        },
+        {
+          "weight": "1",
+          "feature": "bob"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(bob stovall)"
+        },
+        {
+          "weight": "1",
+          "feature": "stovall"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/RobCaud",
+      "text": "rob caud",
+      "constraint": "#2(rob caud)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "robcaud"
+        },
+        {
+          "weight": "1",
+          "feature": "rob"
+        },
+        {
+          "weight": "1",
+          "feature": "caud"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(rob caud)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/danvillekyengr",
+      "text": "danvillekyengr",
+      "constraint": "#2(danvillekyengr)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "danvillekyengr"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(danvillekyengr)"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/tonyg203",
+      "text": "tonyg203",
+      "constraint": "#2(tonyg203)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(tonyg203)"
+        },
+        {
+          "weight": "1",
+          "feature": "tonyg03"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/urbren00",
+      "text": "urbren00",
+      "constraint": "#2(urbren00)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(urbren00)"
+        },
+        {
+          "weight": "1",
+          "feature": "urbren00"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Geoffrey_E._Hinton",
+      "text": "geoffrey e hinton",
+      "constraint": "#2(geoffrey e hinton)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "e"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(geoffrey e hinton)"
+        },
+        {
+          "weight": "1",
+          "feature": "hinton"
+        },
+        {
+          "weight": "1",
+          "feature": "geoffrey"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/L%C3%A9on_Bottou",
+      "text": "leon bottou",
+      "constraint": "#2(leon bottou)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(leon bottou)"
+        },
+        {
+          "weight": "1",
+          "feature": "bottou"
+        },
+        {
+          "weight": "1",
+          "feature": "leon"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Yann_LeCun",
+      "text": "yann lecun",
+      "constraint": "#2(yann lecun)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(yann lecun)"
+        },
+        {
+          "weight": "1",
+          "feature": "lecun"
+        },
+        {
+          "weight": "1",
+          "feature": "yann"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Zoubin_Ghahramani",
+      "text": "zoubin ghahramani",
+      "constraint": "#2(zoubin ghahramani)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "zoubin"
+        },
+        {
+          "weight": "1",
+          "feature": "ghahramani"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(zoubin ghahramani)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Blair_Thoreson",
+      "text": "blair thoreson",
+      "constraint": "#2(blair thoreson)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "thoreson"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(blair thoreson)"
+        },
+        {
+          "weight": "1",
+          "feature": "blair"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Brenda_Weiler",
+      "text": "brenda weiler",
+      "constraint": "#2(brenda weiler)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "brenda"
+        },
+        {
+          "weight": "1",
+          "feature": "weiler"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(brenda weiler)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Carey_McWilliams_(marksman)",
+      "text": "carey mcwilliams marksman",
+      "constraint": "#2(carey mcwilliams marksman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mcwilliams"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(carey mcwilliams marksman)"
+        },
+        {
+          "weight": "1",
+          "feature": "marksman"
+        },
+        {
+          "weight": "1",
+          "feature": "carey"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Clark_Blaise",
+      "text": "clark blaise",
+      "constraint": "#2(clark blaise)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "clark"
+        },
+        {
+          "weight": "1",
+          "feature": "blaise"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(clark blaise)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Daniel_J._Crothers",
+      "text": "daniel j crothers",
+      "constraint": "#2(daniel j crothers)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(daniel j crothers)"
+        },
+        {
+          "weight": "1",
+          "feature": "daniel"
+        },
+        {
+          "weight": "1",
+          "feature": "crothers"
+        },
+        {
+          "weight": "1",
+          "feature": "j"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Danny_Irmen",
+      "text": "danny irmen",
+      "constraint": "#2(danny irmen)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "danny"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(danny irmen)"
+        },
+        {
+          "weight": "1",
+          "feature": "irmen"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/David_B._Danbom",
+      "text": "david b danbom",
+      "constraint": "#2(david b danbom)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "danbom"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(david b danbom)"
+        },
+        {
+          "weight": "1",
+          "feature": "b"
+        },
+        {
+          "weight": "1",
+          "feature": "david"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Drew_Wrigley",
+      "text": "drew wrigley",
+      "constraint": "#2(drew wrigley)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(drew wrigley)"
+        },
+        {
+          "weight": "1",
+          "feature": "wrigley"
+        },
+        {
+          "weight": "1",
+          "feature": "drew"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Ed_Bok_Lee",
+      "text": "ed bok lee",
+      "constraint": "#2(ed bok lee)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lee"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ed bok lee)"
+        },
+        {
+          "weight": "1",
+          "feature": "bok"
+        },
+        {
+          "weight": "1",
+          "feature": "ed"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Fargo_Moorhead_Derby_Girls",
+      "text": "fargo moorhead derby girls",
+      "constraint": "#2(fargo moorhead derby girls)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "girls"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(fargo moorhead derby girls)"
+        },
+        {
+          "weight": "1",
+          "feature": "fargo"
+        },
+        {
+          "weight": "1",
+          "feature": "moorhead"
+        },
+        {
+          "weight": "1",
+          "feature": "derby"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/George_Sinner",
+      "text": "george sinner",
+      "constraint": "#2(george sinner)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "george"
+        },
+        {
+          "weight": "1",
+          "feature": "sinner"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(george sinner)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Gretchen_Hoffman",
+      "text": "gretchen hoffman",
+      "constraint": "#2(gretchen hoffman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "gretchen"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(gretchen hoffman)"
+        },
+        {
+          "weight": "1",
+          "feature": "hoffman"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jamie_Parsley",
+      "text": "jamie parsley",
+      "constraint": "#2(jamie parsley)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(jamie parsley)"
+        },
+        {
+          "weight": "1",
+          "feature": "jamie"
+        },
+        {
+          "weight": "1",
+          "feature": "parsley"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jasper_Schneider",
+      "text": "jasper schneider",
+      "constraint": "#2(jasper schneider)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "schneider"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jasper schneider)"
+        },
+        {
+          "weight": "1",
+          "feature": "jasper"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jeff_Severson",
+      "text": "jeff severson",
+      "constraint": "#2(jeff severson)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(jeff severson)"
+        },
+        {
+          "weight": "1",
+          "feature": "jeff"
+        },
+        {
+          "weight": "1",
+          "feature": "severson"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jennifer_Baumgardner",
+      "text": "jennifer baumgardner",
+      "constraint": "#2(jennifer baumgardner)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jennifer"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jennifer baumgardner)"
+        },
+        {
+          "weight": "1",
+          "feature": "baumgardner"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jim_Poolman",
+      "text": "jim poolman",
+      "constraint": "#2(jim poolman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jim"
+        },
+        {
+          "weight": "1",
+          "feature": "poolman"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jim poolman)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/John_H._Lang",
+      "text": "john h lang",
+      "constraint": "#2(john h lang)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(john h lang)"
+        },
+        {
+          "weight": "1",
+          "feature": "john"
+        },
+        {
+          "weight": "1",
+          "feature": "lang"
+        },
+        {
+          "weight": "1",
+          "feature": "h"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Joshua_Boschee",
+      "text": "joshua boschee",
+      "constraint": "#2(joshua boschee)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(joshua boschee)"
+        },
+        {
+          "weight": "1",
+          "feature": "joshua"
+        },
+        {
+          "weight": "1",
+          "feature": "boschee"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Ken_Fowler",
+      "text": "ken fowler",
+      "constraint": "#2(ken fowler)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ken"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ken fowler)"
+        },
+        {
+          "weight": "1",
+          "feature": "fowler"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Keri_Hehn",
+      "text": "keri hehn",
+      "constraint": "#2(keri hehn)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hehn"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(keri hehn)"
+        },
+        {
+          "weight": "1",
+          "feature": "keri"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Olaus_Murie",
+      "text": "olaus murie",
+      "constraint": "#2(olaus murie)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "olaus"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(olaus murie)"
+        },
+        {
+          "weight": "1",
+          "feature": "murie"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Paul_Johnsgard",
+      "text": "paul johnsgard",
+      "constraint": "#2(paul johnsgard)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "johnsgard"
+        },
+        {
+          "weight": "1",
+          "feature": "paul"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(paul johnsgard)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Paul_Marquart",
+      "text": "paul marquart",
+      "constraint": "#2(paul marquart)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "paul"
+        },
+        {
+          "weight": "1",
+          "feature": "marquart"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(paul marquart)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Richard_Edlund",
+      "text": "richard edlund",
+      "constraint": "#2(richard edlund)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(richard edlund)"
+        },
+        {
+          "weight": "1",
+          "feature": "richard"
+        },
+        {
+          "weight": "1",
+          "feature": "edlund"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Richard_W._Goldberg",
+      "text": "richard w goldberg",
+      "constraint": "#2(richard w goldberg)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "w"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(richard w goldberg)"
+        },
+        {
+          "weight": "1",
+          "feature": "goldberg"
+        },
+        {
+          "weight": "1",
+          "feature": "richard"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Susan_Krieg",
+      "text": "susan krieg",
+      "constraint": "#2(susan krieg)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "krieg"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(susan krieg)"
+        },
+        {
+          "weight": "1",
+          "feature": "susan"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/William_P._Gerberding",
+      "text": "william p gerberding",
+      "constraint": "#2(william p gerberding)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "william"
+        },
+        {
+          "weight": "1",
+          "feature": "p"
+        },
+        {
+          "weight": "1",
+          "feature": "gerberding"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(william p gerberding)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Ana%C3%AFs_Croze",
+      "text": "anais croze",
+      "constraint": "#2(anais croze)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "croze"
+        },
+        {
+          "weight": "1",
+          "feature": "anais"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(anais croze)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Gwena%C3%ABlle_Aubry",
+      "text": "gwenaelle aubry",
+      "constraint": "#2(gwenaelle aubry)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "aubry"
+        },
+        {
+          "weight": "1",
+          "feature": "gwenaelle"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(gwenaelle aubry)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Nicolas_Sch%C3%B6ffer",
+      "text": "nicolas schoffer",
+      "constraint": "#2(nicolas schoffer)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "schoffer"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(nicolas schoffer)"
+        },
+        {
+          "weight": "1",
+          "feature": "nicolas"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Th%C3%A9o_Mercier",
+      "text": "theo mercier",
+      "constraint": "#2(theo mercier)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(theo mercier)"
+        },
+        {
+          "weight": "1",
+          "feature": "theo"
+        },
+        {
+          "weight": "1",
+          "feature": "mercier"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Chiara_Nappi",
+      "text": "chiara nappi",
+      "constraint": "#2(chiara nappi)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(chiara nappi)"
+        },
+        {
+          "weight": "1",
+          "feature": "nappi"
+        },
+        {
+          "weight": "1",
+          "feature": "chiara"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Eva_Silverstein",
+      "text": "eva silverstein",
+      "constraint": "#2(eva silverstein)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "silverstein"
+        },
+        {
+          "weight": "1",
+          "feature": "eva"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(eva silverstein)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Matt_Witten",
+      "text": "matt witten",
+      "constraint": "#2(matt witten)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(matt witten)"
+        },
+        {
+          "weight": "1",
+          "feature": "witten"
+        },
+        {
+          "weight": "1",
+          "feature": "matt"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Shamit_Kachru",
+      "text": "shamit kachru",
+      "constraint": "#2(shamit kachru)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "shamit"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(shamit kachru)"
+        },
+        {
+          "weight": "1",
+          "feature": "kachru"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Angelo_Savoldi",
+      "text": "angelo savoldi",
+      "constraint": "#2(angelo savoldi)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "angelo"
+        },
+        {
+          "weight": "1",
+          "feature": "savoldi"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(angelo savoldi)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Bernard_Kenny",
+      "text": "bernard kenny",
+      "constraint": "#2(bernard kenny)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "kenny"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(bernard kenny)"
+        },
+        {
+          "weight": "1",
+          "feature": "bernard"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Bob_Bert",
+      "text": "bob bert",
+      "constraint": "#2(bob bert)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(bob bert)"
+        },
+        {
+          "weight": "1",
+          "feature": "bob"
+        },
+        {
+          "weight": "1",
+          "feature": "bert"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Carl_Chang_(tennis)",
+      "text": "carl chang tennis",
+      "constraint": "#2(carl chang tennis)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "carl"
+        },
+        {
+          "weight": "1",
+          "feature": "chang"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(carl chang tennis)"
+        },
+        {
+          "weight": "1",
+          "feature": "tennis"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Carla_Katz",
+      "text": "carla katz",
+      "constraint": "#2(carla katz)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "katz"
+        },
+        {
+          "weight": "1",
+          "feature": "carla"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(carla katz)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Derrick_Alston",
+      "text": "derrick alston",
+      "constraint": "#2(derrick alston)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "alston"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(derrick alston)"
+        },
+        {
+          "weight": "1",
+          "feature": "derrick"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Frank_Winters",
+      "text": "frank winters",
+      "constraint": "#2(frank winters)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(frank winters)"
+        },
+        {
+          "weight": "1",
+          "feature": "frank"
+        },
+        {
+          "weight": "1",
+          "feature": "winters"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Henry_Gutierrez",
+      "text": "henry gutierrez",
+      "constraint": "#2(henry gutierrez)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(henry gutierrez)"
+        },
+        {
+          "weight": "1",
+          "feature": "henry"
+        },
+        {
+          "weight": "1",
+          "feature": "gutierrez"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jack_Lazorko",
+      "text": "jack lazorko",
+      "constraint": "#2(jack lazorko)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lazorko"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jack lazorko)"
+        },
+        {
+          "weight": "1",
+          "feature": "jack"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jeff_Tamarkin",
+      "text": "jeff tamarkin",
+      "constraint": "#2(jeff tamarkin)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tamarkin"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jeff tamarkin)"
+        },
+        {
+          "weight": "1",
+          "feature": "jeff"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Joanne_Borgella",
+      "text": "joanne borgella",
+      "constraint": "#2(joanne borgella)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(joanne borgella)"
+        },
+        {
+          "weight": "1",
+          "feature": "borgella"
+        },
+        {
+          "weight": "1",
+          "feature": "joanne"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Ken_Freedman",
+      "text": "ken freedman",
+      "constraint": "#2(ken freedman)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "freedman"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ken freedman)"
+        },
+        {
+          "weight": "1",
+          "feature": "ken"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Klaus_Grutzka",
+      "text": "klaus grutzka",
+      "constraint": "#2(klaus grutzka)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "grutzka"
+        },
+        {
+          "weight": "1",
+          "feature": "klaus"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(klaus grutzka)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Mark_SaFranko",
+      "text": "mark safranko",
+      "constraint": "#2(mark safranko)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mark"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(mark safranko)"
+        },
+        {
+          "weight": "1",
+          "feature": "safranko"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Maurice_Fitzgibbons",
+      "text": "maurice fitzgibbons",
+      "constraint": "#2(maurice fitzgibbons)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fitzgibbons"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(maurice fitzgibbons)"
+        },
+        {
+          "weight": "1",
+          "feature": "maurice"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Pat_Dapuzzo",
+      "text": "pat dapuzzo",
+      "constraint": "#2(pat dapuzzo)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pat"
+        },
+        {
+          "weight": "1",
+          "feature": "dapuzzo"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(pat dapuzzo)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Ruben_J._Ramos",
+      "text": "ruben j ramos",
+      "constraint": "#2(ruben j ramos)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ruben"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(ruben j ramos)"
+        },
+        {
+          "weight": "1",
+          "feature": "j"
+        },
+        {
+          "weight": "1",
+          "feature": "ramos"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Tilo_Rivas",
+      "text": "tilo rivas",
+      "constraint": "#2(tilo rivas)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tilo"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(tilo rivas)"
+        },
+        {
+          "weight": "1",
+          "feature": "rivas"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/William_H._Miller_(writer)",
+      "text": "william h miller writer",
+      "constraint": "#2(william h miller writer)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "william"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(william h miller writer)"
+        },
+        {
+          "weight": "1",
+          "feature": "writer"
+        },
+        {
+          "weight": "1",
+          "feature": "miller"
+        },
+        {
+          "weight": "1",
+          "feature": "h"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Buddy_MacKay",
+      "text": "buddy mackay",
+      "constraint": "#2(buddy mackay)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "buddy"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(buddy mackay)"
+        },
+        {
+          "weight": "1",
+          "feature": "mackay"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Chuck_Pankow",
+      "text": "chuck pankow",
+      "constraint": "#2(chuck pankow)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(chuck pankow)"
+        },
+        {
+          "weight": "1",
+          "feature": "chuck"
+        },
+        {
+          "weight": "1",
+          "feature": "pankow"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Haven_Denney",
+      "text": "haven denney",
+      "constraint": "#2(haven denney)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "haven"
+        },
+        {
+          "weight": "1",
+          "feature": "denney"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(haven denney)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Jeremy_McKinnon",
+      "text": "jeremy mckinnon",
+      "constraint": "#2(jeremy mckinnon)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mckinnon"
+        },
+        {
+          "weight": "1",
+          "feature": "jeremy"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(jeremy mckinnon)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Joey_Mantia",
+      "text": "joey mantia",
+      "constraint": "#2(joey mantia)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mantia"
+        },
+        {
+          "weight": "1",
+          "feature": "joey"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(joey mantia)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Judd_Davis",
+      "text": "judd davis",
+      "constraint": "#2(judd davis)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "davis"
+        },
+        {
+          "weight": "1",
+          "feature": "judd"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(judd davis)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Lorenzo_Williams_(basketball)",
+      "text": "lorenzo williams basketball",
+      "constraint": "#2(lorenzo williams basketball)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "basketball"
+        },
+        {
+          "weight": "1",
+          "feature": "lorenzo"
+        },
+        {
+          "weight": "1",
+          "feature": "williams"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(lorenzo williams basketball)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Randy_Ewers",
+      "text": "randy ewers",
+      "constraint": "#2(randy ewers)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "randy"
+        },
+        {
+          "weight": "1",
+          "feature": "ewers"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(randy ewers)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Reid_Nichols",
+      "text": "reid nichols",
+      "constraint": "#2(reid nichols)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "nichols"
+        },
+        {
+          "weight": "1",
+          "feature": "reid"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(reid nichols)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Scot_Brantley",
+      "text": "scot brantley",
+      "constraint": "#2(scot brantley)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "brantley"
+        },
+        {
+          "weight": "1",
+          "feature": "scot"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(scot brantley)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Sean_Hampton",
+      "text": "sean hampton",
+      "constraint": "#2(sean hampton)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sean"
+        },
+        {
+          "weight": "1",
+          "feature": "hampton"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(sean hampton)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Travis_Mays",
+      "text": "travis mays",
+      "constraint": "#2(travis mays)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(travis mays)"
+        },
+        {
+          "weight": "1",
+          "feature": "travis"
+        },
+        {
+          "weight": "1",
+          "feature": "mays"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/BartowMcDonald",
+      "text": "bartowmcdonald",
+      "constraint": "#2(bartowmcdonald)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bartow"
+        },
+        {
+          "weight": "1",
+          "feature": "mcdonald"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(bartowmcdonald)"
+        },
+        {
+          "weight": "1",
+          "feature": "bartowmcdonald"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/KentGuinn4Mayor",
+      "text": "kentguinn4mayor",
+      "constraint": "#2(kentguinn4mayor)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "kent"
+        },
+        {
+          "weight": "1",
+          "feature": "guinn"
+        },
+        {
+          "weight": "1",
+          "feature": "mayor"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(kentguinn4mayor)"
+        },
+        {
+          "weight": "1",
+          "feature": "kentguinn4mayor"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/bobplaisted",
+      "text": "bobplaisted",
+      "constraint": "#2(bobplaisted)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bob"
+        },
+        {
+          "weight": "1",
+          "feature": "plaisted"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(bobplaisted)"
+        },
+        {
+          "weight": "1",
+          "feature": "bobplaisted"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/redmondmusic",
+      "text": "redmondmusic",
+      "constraint": "#2(redmondmusic)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "redmond"
+        },
+        {
+          "weight": "1",
+          "feature": "music"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(redmondmusic)"
+        },
+        {
+          "weight": "1",
+          "feature": "redmondmusic"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/sandrafriend",
+      "text": "sandrafriend",
+      "constraint": "#2(sandrafriend)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sandra"
+        },
+        {
+          "weight": "1",
+          "feature": "friend"
+        },
+        {
+          "weight": "1",
+          "feature": "sandrafriend"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(sandrafriend)"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Joshua_Zetumer",
+      "text": "joshua zetumer",
+      "constraint": "#2(joshua zetumer)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "zetumer"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(joshua zetumer)"
+        },
+        {
+          "weight": "1",
+          "feature": "joshua"
+        }
+      ]
+    },
+    {
+      "title": "https://twitter.com/MissMarcel",
+      "text": "missmarcel",
+      "constraint": "#2(missmarcel)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "miss"
+        },
+        {
+          "weight": "1",
+          "feature": "marcell"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(missmarcel)"
+        },
+        {
+          "weight": "1",
+          "feature": "missmarcel"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Barbara_Liskov",
+      "text": "barbara liskov",
+      "constraint": "#2(barbara liskov)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "#2(barbara liskov)"
+        },
+        {
+          "weight": "1",
+          "feature": "liskov"
+        },
+        {
+          "weight": "1",
+          "feature": "barbara"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3",
+      "text": "fernando j corbato",
+      "constraint": "#2(fernando j corbato)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fernando"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(fernando j corbato)"
+        },
+        {
+          "weight": "1",
+          "feature": "corbato"
+        },
+        {
+          "weight": "1",
+          "feature": "j"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Juris_Hartmanis",
+      "text": "juris hartmanis",
+      "constraint": "#2(juris hartmanis)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hartmanis"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(juris hartmanis)"
+        },
+        {
+          "weight": "1",
+          "feature": "juris"
+        }
+      ]
+    },
+    {
+      "title": "http://en.wikipedia.org/wiki/Shafi_Goldwasser",
+      "text": "shafi goldwasser",
+      "constraint": "#2(shafi goldwasser)",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "goldwasser"
+        },
+        {
+          "weight": "1",
+          "feature": "shafi"
+        },
+        {
+          "weight": "1",
+          "feature": "#2(shafi goldwasser)"
+        }
+      ]
+    }
+  ]
+}
